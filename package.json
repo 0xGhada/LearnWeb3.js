@@ -1,0 +1,15 @@
+{
+  "name": "learnweb3",
+  "version": "1.0.0",
+  "description": "> this repo has what I learn from this [web3.js Videos](https://youtu.be/hF0sNd66xO4).\r ------\r ## what is web3.js ?\r - web3.js is a collection of libraries which allow us to interact with alocal or remote Ethereum node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.9.0"
+  }
+}
