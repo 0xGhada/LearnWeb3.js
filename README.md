@@ -6,10 +6,10 @@
 
 > [Real world]() ==> web.js ==> [Blockchain world ]()
 
-## web3.js Overview
+### web3.js Overview
 
 - What is web3?
-  >  is  a collection of modules that contain functionality for the ethereum Ecosystem
+>  is  a collection of modules that contain functionality for the ethereum Ecosystem
 - Type of modules 
  > - **web3-eth** is for the ethereum blockchain and smart contarct
  > - **web3-utiles** contain useful helper function for Dapp developer
@@ -18,6 +18,11 @@
 - connect to blockchain
 - interact with smart contract
 
-## PrereQuisite 
+## **PrereQuisite** 
 - javaScript
 - solidity
+
+## **steps**
+- npm init ---y
+- npm install web3
+- start Ganache
